@@ -21,7 +21,7 @@ public class GUI extends Application{
 
 
 		Button newSchueler = new Button();
-		
+		newSchueler.setText("");
 	}
 	
 }
